@@ -1,2 +1,2 @@
-# layoffs-report
-visual report on global layoffs 
+# Layoffs-Report
+Report On Global Layoffs 
