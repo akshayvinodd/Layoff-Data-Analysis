@@ -1,7 +1,7 @@
 # Layoffs-Report
 Report On Global Layoffs 
 
-Table Of Contents
+## Table Of Contents
 
 * Description  
 * Dataset Source  
@@ -9,5 +9,5 @@ Table Of Contents
 * Result And Discussion  
 * Conclusion  
 
-## Description
+### Description
 
