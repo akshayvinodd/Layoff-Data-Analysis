@@ -27,7 +27,7 @@ Layoffs Over Time : Peaked around late 2020 and 2023, possible due to covid 19 a
 
 Fund Raising By Company : The US and India dominates the fund raising suggesting US and Indian companies are primary drivers in the dataset  
 
-Layoffs By Stages : Post-IPO, Series B and C make the majority layoffs indicating that mid-to-late stage startups are experiencing more workforce reductions possibly due to funding pressure or scalability challenges  
+Layoffs By Stages : Post-IPO, Series B and C are at the top, these staged companies are large enough to have significant headcount but may still be unprofitable, making them especially vulnerable when market condition tighten
 
 Industry With Most Layoffs : Finance, retail and health care have higher layoffs, pointing to sector specific disruptions or overexpansion during earlier growth phase  
 
