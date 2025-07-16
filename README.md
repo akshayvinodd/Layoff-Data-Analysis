@@ -1,6 +1,6 @@
 ![Layoffs Dashboard](Images/Screenshot_layoffs_visual.png)
 
-# Layoff-Data Analysis
+# Layoff Data Analysis
 
 This analysis provides an interactive dashboard for analyzing global layoff trends across industries regions etc. The goal is to help users understand the patterns and impact of layoffs over time through intuitive visualizations.
 
