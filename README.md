@@ -1,6 +1,7 @@
-![Layoffs Dashboard](path-to-your-image)
-
 # Layoffs-Report
+
+![Layoffs Dashboard](Images/Screenshot 2025-07-16 121807.png)
+
 This Report provides an interactive dashboard for analyzing global layoff trends across industries regions etc. The goal is to help users understand the patterns and impact of layoffs over time through intuitive visualizations.
 
 ## Table Of Contents
