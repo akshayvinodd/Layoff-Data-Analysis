@@ -17,7 +17,7 @@ The dataset used in this report was sourced from Kaggle. It contains comprehensi
 
 ### Technologies Used
 
-Microsoft Excel : for data cleaning and organizing
+Microsoft Excel : for data cleaning and organizing  
 Microsoft Power BI : for data visualization
 
 ### Result And Discussion
