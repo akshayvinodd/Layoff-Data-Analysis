@@ -2,7 +2,7 @@
 
 ![Layoffs Dashboard](Images/Screenshot_layoffs_visual.png)
 
-This analysis provides an interactive dashboard for analyzing global layoff trends across industries, regions etc. The goal is to help users understand the patterns and impact of layoffs over time through intuitive visualizations.
+This analysis provides an interactive dashboard for analyzing global layoff trends across industries, regions etc. The goal is to help users understand the patterns and impact of layoffs over time through intuitive visualizations
 
 ## Table Of Contents
 
@@ -25,11 +25,11 @@ Microsoft Power BI : for data visualization
 
 Layoffs Over Time : Peaked around late 2020 and 2023, possible due to covid 19 and economic downtimes and declined through 2024 ownwards  
 
-Fund Raising By Company : The US and UK dominates with over 2600 and 130 suggesting US and UK companies are primary drivers in the dataset  
+Fund Raising By Company : The US and India dominates the fund raising suggesting US and Indian companies are primary drivers in the dataset  
 
-Layoffs By Stages : Series C, D, E and F make the majority layoffs indicating that mid-to-late stage startups are experiencing more workforce reductions possibly                       due to funding pressure or scalability challenges  
+Layoffs By Stages : Post-IPO, Series B and C make the majority layoffs indicating that mid-to-late stage startups are experiencing more workforce reductions possibly due to funding pressure or scalability challenges  
 
-Industry With Most Layoffs : Retail, transport and real estate have higher layoffs, pointing to sector specific disruptions or overexpansion during earlier growth                               phase  
+Industry With Most Layoffs : Finance, retail and health care have higher layoffs, pointing to sector specific disruptions or overexpansion during earlier growth phase  
 
 ### Conclusion
 
