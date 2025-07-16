@@ -33,6 +33,6 @@ Industry With Most Layoffs : Finance, retail and health care have higher layoffs
 
 ### Conclusion
 
-This analysis provides a clear and interactive way to analyze global layoff trends using data visualization techniques. By leveraging real-world data, the dashboard offers valuable insights into industry patterns, company-level impacts, and regional differences. It can serve as a useful tool for businesses, analysts, and researchers to understand workforce dynamics and make informed decisions
+This analysis provides a clear and interactive way to analyze global layoff trends using data visualization techniques. By leveraging real-world data, the dashboard offers valuable insights into industry patterns, company-level impacts, and regional differences. It can serve as a useful tool for businesses analysts and researchers to understand workforce dynamics and make informed decisions
 
 
