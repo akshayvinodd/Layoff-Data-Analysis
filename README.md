@@ -1,4 +1,4 @@
-![Layoffs Dashboard](Images/Screenshot 2025-07-16 121807.png)
+![Layoffs Dashboard](Images/Screenshot_2025-07-16_121807.png)
 
 # Layoffs-Report
 
