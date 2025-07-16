@@ -13,7 +13,7 @@ This analysis provides an interactive dashboard for analyzing global layoff tren
 
 ### Dataset Source
 
-The dataset used in this analysis was sourced from Kaggle. It contains comprehensive information on layoffs, including details such as country, company, location, industry, number of employees laid off, date of layoffs and the stage etc from covid 2019 ownwards. The dataset was created and shared by swapnil thripathi. You can access the original dataset here: Kaggle Dataset Link https://www.kaggle.com/datasets/swaptr/layoffs-2022
+The dataset used in this analysis was sourced from Kaggle. It contains comprehensive information on layoffs, including details such as country, company, location, industry, number of employees laid off, date of layoffs and the stage etc from 2019 ownwards. The dataset was created and shared by swapnil thripathi. You can access the original dataset here: Kaggle Dataset Link https://www.kaggle.com/datasets/swaptr/layoffs-2022
 
 ### Technologies Used
 
