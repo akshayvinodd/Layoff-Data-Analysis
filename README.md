@@ -1,8 +1,8 @@
 ![Layoffs Dashboard](Images/Screenshot_layoffs_visual.png)
 
-# Layoffs-Report
+# Layoff-Data Analysis
 
-This Report provides an interactive dashboard for analyzing global layoff trends across industries regions etc. The goal is to help users understand the patterns and impact of layoffs over time through intuitive visualizations.
+This analysis provides an interactive dashboard for analyzing global layoff trends across industries regions etc. The goal is to help users understand the patterns and impact of layoffs over time through intuitive visualizations.
 
 ## Table Of Contents
 
@@ -13,7 +13,7 @@ This Report provides an interactive dashboard for analyzing global layoff trends
 
 ### Dataset Source
 
-The dataset used in this report was sourced from Kaggle. It contains comprehensive information on layoffs, including details such as country, company, location, industry, number of employees laid off, date of layoffs and the stage etc from covid 2019 ownwards. The dataset was created and shared by swapnil thripathi. You can access the original dataset here: Kaggle Dataset Link https://www.kaggle.com/datasets/swaptr/layoffs-2022
+The dataset used in this analysis was sourced from Kaggle. It contains comprehensive information on layoffs, including details such as country, company, location, industry, number of employees laid off, date of layoffs and the stage etc from covid 2019 ownwards. The dataset was created and shared by swapnil thripathi. You can access the original dataset here: Kaggle Dataset Link https://www.kaggle.com/datasets/swaptr/layoffs-2022
 
 ### Technologies Used
 
@@ -33,6 +33,6 @@ Industry With Most Layoffs : Retail, transport and real estate have higher layof
 
 ### Conclusion
 
-This report provides a clear and interactive way to analyze global layoff trends using data visualization techniques. By leveraging real-world data, the dashboard offers valuable insights into industry patterns, company-level impacts, and regional differences. It can serve as a useful tool for businesses, analysts, and researchers to understand workforce dynamics and make informed decisions
+This analysis provides a clear and interactive way to analyze global layoff trends using data visualization techniques. By leveraging real-world data, the dashboard offers valuable insights into industry patterns, company-level impacts, and regional differences. It can serve as a useful tool for businesses, analysts, and researchers to understand workforce dynamics and make informed decisions
 
 
