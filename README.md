@@ -25,7 +25,7 @@ Microsoft Power BI : for data visualization
 
 Layoffs Over Time : Peaked around late 2020 and 2023, possible due to covid 19 and economic downtimes and declined through 2024 ownwards, also there is a low layoff count from 2021 to 22 due to post covid recovery boom   
 
-Fund Raising By Company : The US and India dominates the fund raising suggesting US and Indian companies are primary drivers of the economy  
+Fund Raising By Company : The US dominates the fund raising suggesting US companies are primary drivers of the economy and the indian companies are at the second place  
 
 Layoffs By Stages : Post-IPO, Series B and C are at the top, these staged companies are large enough to have significant headcount but may still be unprofitable, making them especially vulnerable when market condition tighten
 
